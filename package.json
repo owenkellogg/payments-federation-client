@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Steven Zeiler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenzeiler/payments-federation-client.git"
+  },
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.9.24",
